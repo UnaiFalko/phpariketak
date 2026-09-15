@@ -1,5 +1,5 @@
 <?php
-$irteeraData = "2024-09-14 15:30";
+$irteeraData = "2026-09-14 15:30";
 $oragunea = date("Y-m-d H:i");
 
 $denbora = strtotime($irteeraData) - strtotime($oragunea);
